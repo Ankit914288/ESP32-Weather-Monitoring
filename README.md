@@ -34,7 +34,4 @@ This project is an **IoT-based weather monitoring system** that uses an **ESP32 
    - `LiquidCrystal_I2C`  
    - `WiFi` and `HTTPClient` (built-in)  
 
-2. **Clone this Repository**  
-   ```sh
-   git clone https://github.com/your-username/ESP32-Weather-Monitoring.git
-   cd ESP32-Weather-Monitoring
+
